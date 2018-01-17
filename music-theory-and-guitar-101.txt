@@ -2,7 +2,7 @@
     |~~~~~~|
     |      |   Music Theory and Guitar 101
 /~~\|  /~~\|   https://rpschultz.de
-\__/   \__/    CC-BY-SA 4.0 Rene Schultz 2018
+\__/   \__/    CC-BY-SA 4.0 Rene Schultz 2004-2018
 
 A couple of things are oversimplified as this is already a lot to take in.
 Pull Requests welcome, it's a work in progress.
