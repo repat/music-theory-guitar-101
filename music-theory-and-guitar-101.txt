@@ -5,7 +5,7 @@
 \__/   \__/    CC-BY-SA 4.0 Rene Schultz 2018
 
 A couple of things are oversimplified as this is already a lot to take in.
-Pull Requests welcome, it's a work in progress
+Pull Requests welcome, it's a work in progress.
 
 Content|
 -------
@@ -77,6 +77,12 @@ II.2 (Dis-)Advantages Nylon
 
 III Tabs|
 --------
+* Most guitar players use a system called tabs instead of traditional music notes
+* The numbers are the frets to press the fingers down in
+* The lines the strings with the one on top being the 1st string (see II)
+* A 0 means the string is played with not finger pressed anywhere
+* Numbers/tones are played from left to right. If numbers are above each other (see IV), they are played at the same time
+* Other notations include X (string not played), pm (palm muted), h (hammer on), p (pull-off) and ~ (let ring)
 
 E |-------------------------------------|
 B |-------------------------------------|
@@ -87,25 +93,18 @@ E |-0-0-1-2---2---2-2-1-0---0-0---0-1-2-|
 
 - Nirvanas "About A Girl"
 
-* Most guitar players use a system called tabs instead of traditional music notes
-* The numbers are the frets to press the fingers down in
-* The lines the strings with the one on top being the 1st string (see II)
-* A 0 means the string is played with not finger pressed anywhere
-* Numbers/tones are played from left to right. If numbers are above each other (see IV), they are played at the same time
-* Other notations include X (string not played), pm (palm muted), h (hammer on), p (pull-off) and ~ (let ring)
-
 
 IV Chords|
 ----------
 * A chord consists of a minimum of three tones played at the same time
 * For simplification we'll only look at minor and major chords
 * Minor chords are noted with a small letter (+m), major chords a capital letter
-* Minor chords consists of the base + 3 half steps + 4 half steps
-* Major chords consists of the base + 4 half steps + 3 half steps
+* Minor chords consists of the base tone + a tone 3 half steps up + a tone 4 half steps up
+* Major chords consists of the base tone + a tone 4 half steps up + a tone 3 half steps up
 * Look at the piano, that makes it easier
 * Example em: e + g  + b
 * Example E:  e + g# + b
-* From minor to major, only the middle tone needs to be moved 1/2 tone up, since the sum of half tones is 3+4=7
+* From minor to major, only the middle tone needs to be moved 1/2 tone up, since the sum of half tones is 0+3+4=7
 * Because there are 6 strings, tones in a chord can be played twice or even 3 times
 
 E |--0--| ---------------------> E
@@ -115,14 +114,23 @@ D |--2--| --> D + 2 half tones = E
 A |--2--| --> A + 2 half tones = B
 E |--0--| ---------------------> E
 
-* Example: em consists of E (3x), G (1x), B (2x) (see examples earlier)
+* Example: em consists of E (3x), G (1x), B (2x) (see above)
 * There are many more chords, e.g. in Jazz or Blues
-* There are chords where the first index finger needs to press down all 6 strings called bar chords
+* There are chords where the index finger needs to press down all 6 strings called bar chords
 * Focus on normal chords as bar chords are harder to learn
-* Bar chords include: All minor and major sharp (#) chords, cm, F, fm, gm, B and bm
+* Bar chords include: All minor and major sharp (#) chords, cm, fm, gm, B, bm and mostly F (can be played 2 ways)
+* Example: F Major Chord: Index finger presses down all strings while other fingers press A, D and G string additionally
+
+E |--1--|
+B |--1--|
+G |--2--|
+D |--3--|
+A |--3--|
+E |--1--|
+
 * All chords can also be played as bar chords
 * All chords can be played with a capo, but they will all be higher depending on capo position
-* Example Capo: Capo on 1st fret, all tones are 1/2 tone higher -> em chord is now fm chord]
+* Example Capo: Capo on 1st fret, all tones are 1/2 tone higher -> "em chord" is now fm chord
 
 
 V 4 Chord Songs|
@@ -130,7 +138,7 @@ V 4 Chord Songs|
 * Watch "4 chord song" by "Axis of Awesome": https://www.youtube.com/watch?v=5pidokakU4I
 * Most pop songs have one simple chord progression made out of 4 chords, repeated over and over
 * The chords vary in key, but the interval between them is always the same, see example
-* The chords are called: Tonic, parallel minor, subdominant, dominant
+* The chords are called: Tonic (the "base"), parallel minor, subdominant, dominant
 * Example C-Major: C (tonic), am (minor parallel), F (subdominant), G (dominant)
 
                    |           |                   |                |
@@ -154,7 +162,7 @@ E |--0--|--3------|--3------|--X--|--X---|
 * Both Gs can be played, v2 sounds "fuller"
 * The first string on the C and the first 2 strings on D should not be played
 * It's possible to use the thumb to mute strings or just play precisely with the right hand
-* When Xs are not played softly in a chord nontheless, it's mostly not very noticable to an untrained ear
+* When Xs are played softly in a chord nontheless, it's mostly not very noticable to an untrained ear
 
 
 VI Strumming pattern right hand|
