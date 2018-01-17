@@ -1,0 +1,209 @@
+    |~~~~~~|
+    |~~~~~~|
+    |      |   Music Theory and Guitar 101
+/~~\|  /~~\|   https://rpschultz.de
+\__/   \__/    CC-BY-SA 4.0 Rene Schultz 2018
+
+A couple of things are oversimplified as this is already a lot to take in.
+Pull Requests welcome, it's a work in progress
+
+Content|
+-------
+0    Equipment
+I    Piano
+II   Guitar
+III  Tabs
+IV   Chords
+V    4 Chord Songs
+VI   Strumming pattern
+VII  Excercise
+IIX  Links
+
+
+0 Equipment|
+-----------
+* Guitar
+* Capo (e.g. https://www.amazon.com/dp/B014MQ22XU)
+* Tuner or Tuner App (e.g. https://www.amazon.com/dp/B005MR6IHK)
+* Plectrum ("Pick")
+* Paper + Pen for notes
+
+
+I Piano|
+-------
+     C#   D#        F#   G#   A#
+|   |||  |||   |   |||  |||  |||   |  ||
+|    |    |    |    |    |    |    |   | ...
+|____|____|____|____|____|____|____|___|
+   C    D   E     F    G    A    B    C'
+
+* The order is: C C# D D# E F F# G G# A A# C'
+* C' means it's the next C and sounds higher than the C before
+* For simplification the accidentals (black keys) are only marked with a sharp sign (#), never with a flat (b)
+* Example: F#/Gb is just F# here
+* From each key to the next it's 1/2 tone (semitone or half tone), whether or not it's to a black key or a white key
+* Example: From C (white key) to C# (black key) is a half tone, from E to F is a half tone too (no black key in between)
+
+
+II Guitar|
+---------
+* There are two main (acoustic) guitar types: steel strings or nylon strings
+* Guitars have 6 strings and 12+ frets
+* Frets are separated by little metal sticks, the fingers go in between those
+* Counting begins at the thinnest (1st) string and ends at the thickest (6th) string
+* Frets are marked on the top with little dots, mostly at (3,) 5, 7, 9 and a double dot for 12
+* From each fret to the next it's 1/2 tone
+* The keys of the strings are from top to bottom E A D G B E
+* Mnemonic: Eat All Day Get Big Easy
+* [Bass Guitars only have the last 4 strings: E A D G]
+* [Tune guitar A frequency to 440 Hz to play with other instruments (e.g. Piano or Bass Guitar)]
+* Sometimes the last E is noted as E'
+* This is called Standard Tuning, but there are many more, especially for electric guitar (power chords - see IIX)
+* Example: DADGBE ("Drop-D"), CDCFAD ("Drop-C") or all string half a key down are common
+* It's possible to tune up the whole guitar (transpose) with a capo because it presses all strings
+* More on capo in IV
+
+II.1 (Dis-)Advantages Steelstring
++/- frets are smaller, hands don't have to be stretched as much (good for children)
++ better for chords
++ easier to re-string
+- Steel hurts the fingers more while pressing down
+
+II.2 (Dis-)Advantages Nylon
++/- frets are bigger, fingers don't get in each others way
++ mostly cheaper
+- not as good for chords
+
+
+III Tabs|
+--------
+
+E |-------------------------------------|
+B |-------------------------------------|
+G |-------------------------------------|
+D |-------------------------------------|
+A |---------0---0---------2-----2-------|
+E |-0-0-1-2---2---2-2-1-0---0-0---0-1-2-|
+
+- Nirvanas "About A Girl"
+
+* Most guitar players use a system called tabs instead of traditional music notes
+* The numbers are the frets to press the fingers down in
+* The lines the strings with the one on top being the 1st string (see II)
+* A 0 means the string is played with not finger pressed anywhere
+* Numbers/tones are played from left to right. If numbers are above each other (see IV), they are played at the same time
+* Other notations include X (string not played), pm (palm muted), h (hammer on), p (pull-off) and ~ (let ring)
+
+
+IV Chords|
+----------
+* A chord consists of a minimum of three tones played at the same time
+* For simplification we'll only look at minor and major chords
+* Minor chords are noted with a small letter (+m), major chords a capital letter
+* Minor chords consists of the base + 3 half steps + 4 half steps
+* Major chords consists of the base + 4 half steps + 3 half steps
+* Look at the piano, that makes it easier
+* Example em: e + g  + b
+* Example E:  e + g# + b
+* From minor to major, only the middle tone needs to be moved 1/2 tone up, since the sum of half tones is 3+4=7
+* Because there are 6 strings, tones in a chord can be played twice or even 3 times
+
+E |--0--| ---------------------> E
+B |--0--| ---------------------> B
+G |--0--| ---------------------> G
+D |--2--| --> D + 2 half tones = E
+A |--2--| --> A + 2 half tones = B
+E |--0--| ---------------------> E
+
+* Example: em consists of E (3x), G (1x), B (2x) (see examples earlier)
+* There are many more chords, e.g. in Jazz or Blues
+* There are chords where the first index finger needs to press down all 6 strings called bar chords
+* Focus on normal chords as bar chords are harder to learn
+* Bar chords include: All minor and major sharp (#) chords, cm, F, fm, gm, B and bm
+* All chords can also be played as bar chords
+* All chords can be played with a capo, but they will all be higher depending on capo position
+* Example Capo: Capo on 1st fret, all tones are 1/2 tone higher -> em chord is now fm chord]
+
+
+V 4 Chord Songs|
+----------------
+* Watch "4 chord song" by "Axis of Awesome": https://www.youtube.com/watch?v=5pidokakU4I
+* Most pop songs have one simple chord progression made out of 4 chords, repeated over and over
+* The chords vary in key, but the interval between them is always the same, see example
+* The chords are called: Tonic, parallel minor, subdominant, dominant
+* Example C-Major: C (tonic), am (minor parallel), F (subdominant), G (dominant)
+
+                   |           |                   |                |
+                   v           v                   v                v
+
+* Example G-Major: G (tonic), em (minor parallel), C (subdominant), D (dominant)
+* They sometimes marked as tonic (I), minor parallel (vi), subdominant (IV) and dominant (V)
+* Mostly played in this order: I - V - vi - IV, e.g. G, D, em, C
+* There is only one progression that doesn't involve bar chords (see IV) and it's G-Major: G em C D
+* Use capo to transpose G-Major chord progression to music you're playing or to match your singing range
+
+E |--0--|--2------|--2------|--0--|--2---|
+B |--0--|--0------|--2------|--1--|--3---|
+G |--0--|--0------|--0------|--0--|--2---|
+D |--2--|--0------|--0------|--2--|--0---|
+A |--2--|--2------|--2------|--3--|--X---|
+E |--0--|--3------|--3------|--X--|--X---|
+
+    em     G (v1)    G (v2)    C     D
+
+* Both Gs can be played, v2 sounds "fuller"
+* The first string on the C and the first 2 strings on D should not be played
+* It's possible to use the thumb to mute strings or just play precisely with the right hand
+* When Xs are not played softly in a chord nontheless, it's mostly not very noticable to an untrained ear
+
+
+VI Strumming pattern right hand|
+--------------------------------
+
+| |  ^ ^  | ^
+v v  | |  v |
+
+* Down - Down - Up - Up - Down - Up
+* Change chords after last up
+
+@TODO: YouTube Video
+
+
+VII Excerise: Pentatonic|
+-------------------------
+To train finger dexterity try this:
+
+E |---------------------5-8---------------------|
+B |-----------------5-8-----5-8-----------------|
+G |-------------5-7-------------5-7-------------|
+D |---------5-7---------------------5-7---------|
+A |-----5-7-----------------------------5-7-----|
+E |-5-8-------------------------------------5-8-|
+
+
+IIX Links and more Information|
+-------------------------------
+IIX.1 General
+* https://en.wikipedia.org/wiki/Piano
+* https://en.wikipedia.org/wiki/Semitone
+* https://en.wikipedia.org/wiki/Guitar
+* https://en.wikipedia.org/wiki/Fret
+* https://en.wikipedia.org/wiki/Tablature
+* https://en.wikipedia.org/wiki/Capo
+* https://en.wikipedia.org/wiki/Plectrum
+
+IIX.2 Music Theory
+* https://en.wikipedia.org/wiki/Tonic_(music)
+* https://en.wikipedia.org/wiki/Parallel_key
+* https://en.wikipedia.org/wiki/Dominant_(music)
+* https://en.wikipedia.org/wiki/Subdominant
+* https://en.wikipedia.org/wiki/Power_chord
+
+IIX.3 Tabs and resources
+* https://ultimate-guitar.com
+* https://www.youtube.com/watch?v=rFOl-9SNxLY (440 Hz aka the tone A)
+* YouTube
+
+IIX.4 Author
+* https://rpschultz.de
+* mail at rpschultz dot de
